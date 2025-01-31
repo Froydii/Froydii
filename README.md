@@ -25,11 +25,3 @@
 
 <div align="left">
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Froydii/Froydii/output/snake.svg" alt="Snake animation" />
-
-###
